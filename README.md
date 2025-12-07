@@ -27,7 +27,7 @@
 ## Tech Stack
 
 **Languages:**  
-`Python` `C` `JavaScript`
+`Python` `JavaScript`
 
 **Machine Learning & Deep Learning:**  
 `PyTorch` `Torchvision` `Scikit-Learn` `NumPy` `Pandas`
@@ -39,7 +39,8 @@
 `Time-Series` `RNN/LSTM` `Feature Engineering` `Data Visualization`
 
 **Tools & Platforms:**  
-`Jupyter Notebook` `Google Colab` `Git` `GitHub`
+`Jupyter Notebook` `Google Colab` `Git` `GitHub` `Power BI` `SQL`
+
 
 ---
 
