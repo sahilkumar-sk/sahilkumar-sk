@@ -27,7 +27,7 @@
 ## Tech Stack
 
 **Languages:**  
-`Python` `JavaScript`
+`Python` `Java`
 
 **Machine Learning & Deep Learning:**  
 `PyTorch` `Torchvision` `Scikit-Learn` `NumPy` `Pandas`
