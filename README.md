@@ -1,18 +1,18 @@
 <h2 align="center">Hi, I'm Sahil Kumar</h2>
 
 <p align="center">
-  <b>Aspiring ML & Data Science Engineer | Exploring Deep Learning, Kaggle, Forecasting & BI Analytics</b>  
+  <b>Software Engineer | Backend & API Development | AI-Enabled Systems</b>
 </p>
 
 ---
 
 ## About Me
-- Deep Learning & Machine Learning learner 
-- Final Year Project: **ForeStock – Stock Price Forecasting System**  
-- Interested in Vision Transformers, CNNs, Model Fusion, and AI systems  
-- Passionate about building ML solutions with real-world impact  
-- Always learning, improving, and exploring new ML research  
-- Open to collaborations, internships, and ML/AI roles  
+- Software Engineer with a strong foundation in **backend systems, RESTful APIs, and databases**
+- Experience building **end-to-end applications** integrating ML models into production workflows
+- Interested in **API-driven architectures, system design, and workflow automation**
+- Hands-on experience with **Flask, SQL databases, dashboards, and ML pipelines**
+- Passionate about building **scalable, maintainable software systems**
+- Open to **Software Engineer, Backend, and AI-enabled engineering roles**
 
 ---
 
@@ -24,22 +24,25 @@
 
 ---
 
-## Tech Stack
+## Core Tech Stack
 
-**Languages:**  
+**Languages**  
 `Python` `Java`
 
-**Machine Learning & Deep Learning:**  
-`PyTorch` `Torchvision` `Scikit-Learn` `NumPy` `Pandas`
+**Backend & APIs**  
+`Flask` `RESTful APIs` `CRUD Operations` `Authentication`  
 
-**Deep Learning Models:**  
-`CNNs` `ResNet` `DenseNet` `ConvNeXt` `Vision Transformer (ViT)` `Swin Transformer`
+**Databases**  
+`MySQL` `SQLite` `SQL` `Schema Design`
 
-**Forecasting & Financial ML:**  
-`Time-Series` `RNN/LSTM` `Feature Engineering` `Data Visualization`
+**Machine Learning & AI**  
+`Scikit-Learn` `PyTorch` `Pandas` `NumPy`  
 
-**Tools & Platforms:**  
-`Jupyter Notebook` `Google Colab` `Git` `GitHub` `Power BI` `SQL`
+**Data & Visualization**  
+`Power BI` `Dashboards` `Data Analysis`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Jupyter Notebook` `Google Colab`
 
 
 ---
@@ -48,62 +51,80 @@
 
 ---
 
-## **Deep Learning Classification on PASCAL VOC 2008**  
+### **Asset Management System (AMS) – Full-Stack Web Application**
+**Repo:** https://github.com/sahilkumar-sk/Asset-Management-System
 
-Repo: [neural-network-deep-learning-project](https://github.com/sahilkumar-sk/neural-network-deep-learning-project)
+A backend-driven asset management system designed to support real organizational workflows.
 
-A full deep learning research project comparing ViT, Swin, ResNet, DenseNet, ConvNeXt with Early & Late Fusion.  
-**Highlights:**
-- Fine-tuned multiple pretrained architectures  
-- Implemented Early + Late Fusion for enhanced performance  
-- Achieved **1.00 mAP (Early Fusion)**  
-- Includes complete academic research report + visualizations  
+**Highlights**
+- Designed a modular backend architecture using services and repositories (clean architecture)
+- Developed RESTful APIs for managing assets, employees, and locations
+- Implemented authentication and session handling for secure access
+- Designed relational database schemas ensuring data integrity and performance
+- Automated asset tracking and reporting workflows, reducing manual operations
+- Built dashboards to provide operational visibility and key metrics
 
----
-
-## **ForeStock – Stock Price Forecasting System (Final Year Project)**  
-
-Repo: [ForeStock](https://github.com/sahilkumar-sk/ForeStock)
-
-A full end-to-end **Stock Price Forecasting System** built as your **Final Year Project**.  
-**Key Features:**
-- Predicts stock prices using ML-based models  
-- Time-series analysis + feature engineering  
-- Model training & evaluation pipeline  
-- Includes a clean UI (CSS-based frontend)  
-- Documentation + clear project structure  
-Perfect for showcasing ML + software engineering skills.
+**Tech:** Python, Flask, SQLite, REST APIs, JavaScript
 
 ---
 
-## **Intro to ML – Kaggle Competitions (Classification + Regression)**
+### **ForeStock – Stock Price Forecasting System (Final Year Project)**
+**Repo:** https://github.com/sahilkumar-sk/ForeStock
 
-Repo: [intro-to-ml-kaggle-competitions](https://github.com/sahilkumar-sk/intro-to-ml-kaggle-competitions)
+An end-to-end **AI-enabled backend system** for stock price forecasting.
 
-A foundational machine learning project covering **both classification and regression** problems using Kaggle-style datasets.  
-**Highlights:**
-- Data preprocessing, feature engineering, and model evaluation  
-- Implemented ML algorithms such as Logistic Regression, Random Forest, XGBoost, SVM  
-- Worked with real datasets: structured data classification + numerical regression  
-- Includes confusion matrices, accuracy, MAE/RMSE evaluation  
-- Demonstrates strong ML fundamentals  
+**Highlights**
+- Built a Flask-based backend serving real-time predictions via RESTful APIs
+- Integrated ML forecasting models into backend services
+- Implemented time-series preprocessing and feature engineering pipelines
+- Designed interactive dashboards for trend analysis and decision support
+- Focused on system reliability, performance optimization, and clean structure
 
----
-
-## **CI/CD Python Implementation**  
-A simple experimentation repo exploring automation workflows for code deployment and testing.
+**Tech:** Python, LSTM, NLP, Flask, REST APIs, Dashboards
 
 ---
 
-## Open to Collaboration  
-If you’re working on:
-- Deep Learning  
-- Stock Market Forecasting  
-- Computer Vision  
-- Kaggle Competitions  
-- Python Projects  
+### **Deep Learning Classification System (Academic Project)**
+**Repo:** https://github.com/sahilkumar-sk/neural-network-deep-learning-project
 
-Feel free to reach out — I'd love to collaborate!
+An academic deep learning system focused on evaluating and integrating multiple computer vision models.
+
+**Highlights**
+- Built modular training and evaluation pipelines for multiple architectures
+- Integrated pretrained models into a unified experimentation framework
+- Implemented early and late fusion strategies for comparative analysis
+- Produced detailed evaluation reports and visualizations
+- Demonstrates strong understanding of ML systems and experimentation workflows
+
+**Tech:** Python, PyTorch, CNNs, Vision Transformers
+
+---
+
+### **Machine Learning Foundations – Kaggle Competitions**
+**Repo:** https://github.com/sahilkumar-sk/intro-to-ml-kaggle-competitions
+
+Hands-on machine learning implementations using real-world datasets.
+
+**Highlights**
+- Data preprocessing, feature engineering, and model evaluation
+- Implemented classification and regression algorithms (Decision Trees, Random Forest, AdaBoost, XGBoost)
+- Evaluated models using accuracy, confusion matrices, MAE, and RMSE
+- Demonstrates strong ML fundamentals and structured problem solving
+
+**Tech:** Python, Scikit-Learn, Pandas, NumPy
+
+---
+
+### **CI/CD Python Experiments**
+Explored basic CI/CD concepts including automated testing and workflow execution for Python projects.
+
+---
+
+## Currently Exploring
+- Backend system optimization
+- API orchestration and integration
+- AI-enabled features in software systems
+- Workflow automation and reliability improvements
 
 ---
 
