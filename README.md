@@ -10,7 +10,7 @@
 - Software Engineer with a strong foundation in **backend systems, RESTful APIs, and databases**
 - Experience building **end-to-end applications** integrating ML models into production workflows
 - Interested in **API-driven architectures, system design, and workflow automation**
-- Hands-on experience with **Flask, SQL databases, dashboards, and ML pipelines**
+- Hands-on experience with **Flask, SQL databases, cloud dashboards, and ML pipelines**
 - Passionate about building **scalable, maintainable software systems**
 - Open to **Software Engineer, Backend, and AI-enabled engineering roles**
 
@@ -30,20 +30,22 @@
 `Python` `Java`
 
 **Backend & APIs**  
-`Flask` `RESTful APIs` `CRUD Operations` `Authentication`  
+`Flask` `RESTful APIs` `CRUD Operations` `Authentication`
 
 **Databases**  
 `MySQL` `SQLite` `SQL` `Schema Design`
 
 **Machine Learning & AI**  
-`Scikit-Learn` `PyTorch` `Pandas` `NumPy`  
+`Scikit-Learn` `PyTorch` `Pandas` `NumPy`
 
 **Data & Visualization**  
 `Power BI` `Dashboards` `Data Analysis`
 
+**Cloud & Analytics**  
+`Azure SQL` `Azure Data Studio` `Power BI Embedded`
+
 **Tools & Platforms**  
 `Git` `GitHub` `Jupyter Notebook` `Google Colab`
-
 
 ---
 
@@ -81,6 +83,23 @@ An end-to-end **AI-enabled backend system** for stock price forecasting.
 - Focused on system reliability, performance optimization, and clean structure
 
 **Tech:** Python, LSTM, NLP, Flask, REST APIs, Dashboards
+
+---
+
+### **Cloud Marketing Analytics Dashboard (Azure + Power BI Embedded)**
+**Repo:** Private (Azure-based academic project)
+
+A cloud-based data analytics project focused on transforming raw marketing data into actionable business insights using Azure services.
+
+**Highlights**
+- Used **Azure Data Studio** to ingest, clean, and validate data from multiple sources (customers, campaigns, sales, funnels)
+- Designed structured **Azure SQL** schemas and views to support analytics and KPI reporting
+- Built **interactive Power BI dashboards** with filters, drill-downs, and KPI cards
+- Implemented **Power BI Embedded** to securely embed dashboards into any application for stakeholder access
+- Analyzed user behavior, campaign performance, and conversion funnels
+- Delivered **data-driven marketing recommendations** based on insights (channel optimization, funnel improvements, high-value segments)
+
+**Tech:** Azure SQL, Azure Data Studio, Power BI, Power BI Embedded, SQL, Data Modeling, Dashboards
 
 ---
 
